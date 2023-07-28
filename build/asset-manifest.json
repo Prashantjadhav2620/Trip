@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Trip/static/css/main.f970847b.css",
+    "main.js": "/Trip/static/js/main.42549be8.js",
+    "static/media/3.jpg": "/Trip/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/Trip/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/Trip/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/8.jpg": "/Trip/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/10.jpg": "/Trip/static/media/10.b4cae24d2bff7fc2e5f0.jpg",
+    "static/media/5.jpg": "/Trip/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/Trip/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/4.jpg": "/Trip/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/Trip/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/Trip/index.html",
+    "main.f970847b.css.map": "/Trip/static/css/main.f970847b.css.map",
+    "main.42549be8.js.map": "/Trip/static/js/main.42549be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f970847b.css",
+    "static/js/main.42549be8.js"
+  ]
+}
